@@ -1,0 +1,22 @@
+{
+  "name": "react-native-fathom-example",
+  "displayName": "Fathom Example",
+  "expo": {
+    "name": "react-native-fathom-example",
+    "slug": "react-native-fathom-example",
+    "description": "Example app for react-native-fathom",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

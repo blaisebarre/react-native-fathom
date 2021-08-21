@@ -36,7 +36,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/blaisebarre/react-native-fathom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaisebarre/react-native-fathom.git"
+  },
   "author": "Blaise Barré <blaise.barre@itinnove.com> (https://github.com/blaisebarre)",
   "license": "MIT",
   "bugs": {
@@ -149,5 +152,8 @@
         }
       ]
     ]
+  },
+  "directories": {
+    "example": "example"
   }
 }

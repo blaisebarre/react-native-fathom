@@ -1,5 +1,5 @@
 {
-  "name": "react-native-fathom",
+  "name": "@blaisebarre/react-native-fathom",
   "version": "0.1.0",
   "description": "Librairie de Fathom pour React Native",
   "main": "lib/commonjs/index",
